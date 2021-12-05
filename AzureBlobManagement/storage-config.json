@@ -1,0 +1,16 @@
+{
+  "StorageAccountName_Source": "storage4rnd",
+  "StorageAccessKey_Source": "Gm1MXCZ/8Pz6Q8kfkPXUWBT9Q6aa3wrTEuYtkaEPgqSwVvB+U8UfQvcXDWPZ1q1wLV7nImLd2abrj7OTeK6e/w==",
+  "EcapRootContainerName_Source": "ecap-falcon/prod",
+  "TenantRootDirectoryName_Source": "C55B1486-64B4-4F49-AA32-B69966D41429",
+
+  "StorageAccountName_Destination": "storage4rnd",
+  "StorageAccessKey_Destination": "Gm1MXCZ/8Pz6Q8kfkPXUWBT9Q6aa3wrTEuYtkaEPgqSwVvB+U8UfQvcXDWPZ1q1wLV7nImLd2abrj7OTeK6e/w==",
+  "EcapRootContainerName_Destination": "ecap-falcon/dev",
+  "TenantRootDirectoryName_Destination": "C55B1486-64B4-4F49-AA32-B69966D41429",
+
+  "UserId": "03e5a4b1-2889-41a4-8c25-64c544ed042d",
+
+  "DbConnectionString": "mongodb://10.5.25.13:27017",
+  "TenantDatabase": "C55B1486-64B4-4F49-AA32-B69966D41429"
+}
